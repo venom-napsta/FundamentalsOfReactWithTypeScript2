@@ -37,3 +37,14 @@
     transform: rotate(360deg);
   }
 }
+
+.calculation{
+  background-color: #434e64;
+}
+form{
+  background-color: #222936;
+}
+form>input{
+  font-size: large;
+  margin-bottom: 40px;
+}
