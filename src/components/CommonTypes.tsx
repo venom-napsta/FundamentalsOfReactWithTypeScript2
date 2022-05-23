@@ -21,6 +21,7 @@ function CommonTypes(props:NameTagProps) {
 
 export default CommonTypes
 
+/*
 // basic
 type NameTagProps2 = {
     name: string;
@@ -88,4 +89,4 @@ const Add = (a:number, b:number): number =>{
 type OptionalProps = {
     requiredProp: boolean;
     optionalProp?: string;
-}
+}*/

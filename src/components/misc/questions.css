@@ -1,0 +1,6 @@
+.blurred{
+    display: none;
+}
+.visible{
+    display: contents;
+}
