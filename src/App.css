@@ -40,11 +40,16 @@
 
 .calculation{
   background-color: #434e64;
+  border: 2px #e3eaf8 solid;
+  margin-bottom: 10px;
 }
 form{
+  padding: 30px;
+  border: 2px #e3eaf8 solid;
   background-color: #222936;
 }
 form>input{
   font-size: large;
   margin-bottom: 40px;
+  padding: 20px;
 }
